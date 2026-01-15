@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-Hi, I'm Federico Poi, a recent graduate with a degree in Computer Science and minors in Business and Mathematics. Through personal projects and internships, I've gained hands-on experience in diverse aspects of development, showcased in my portfolio at https://www.federicopoi.work/.
+I’m Fede. I’m a motivated, results-oriented Software Developer with experience delivering full-stack and backend solutions using Python, JavaScript (React/Node), PHP, and AWS, focused on building clean, secure systems through automation, APIs, and scalable workflows.
 
-My development approach extends beyond writing clean code; it involves crafting innovative solutions that resonate with users. I bring a creative mindset to problem-solving, ensuring every project I undertake is not only technically robust but also visually compelling.
+I hold a Bachelor of Science in Computer Science from Southwestern College, completed in December 2023. My professional journey has been defined by hands-on development, project collaboration, and end-to-end delivery across multiple projects, with a commitment to building effective, user-friendly results.
+
+I’m open to new software development opportunities where I can build useful products, learn fast, and deliver real results. Always happy to connect. Feel free to reach out!
